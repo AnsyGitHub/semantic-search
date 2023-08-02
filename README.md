@@ -8,3 +8,10 @@ This repository contains a Jupyter Notebook that demonstrates a powerful Speech-
 
 For a detailed understanding and to interact with the code, please visit the [Google Colab Notebook](https://colab.research.google.com/drive/1wP-X5V29JgSf7gyI-Z8S5pbojTCIejoL?usp=sharing).
 
+## Output
+
+### Transcribed Question
+![Transcribed Question](/path/to/transcribed_question.png)
+
+### Answer
+![Answer](/path/to/answer.png)
