@@ -11,7 +11,7 @@ For a detailed understanding and to interact with the code, please visit the [Go
 ## Output
 
 ### Transcribed Question
-![Transcribed Question](/path/to/transcribed_question.png)
+![Transcribed Question](/transcribed.JPG)
 
 ### Answer
-![Answer](/path/to/answer.png)
+![Answer](/answer.JPG)
